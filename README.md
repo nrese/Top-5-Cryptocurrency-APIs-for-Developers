@@ -106,4 +106,4 @@ There are tons of cryptocurrency data api to choose from, sometimes it can feel 
 I hope this post helps you decide which data provider is best for your project.
 
 ## Thanks For Reading
-Questions, comments, and constructive criticism is welcomed. Read the full story [here](https://towardsdatascience.com/top-5-best-cryptocurrency-apis-for-developers-32475d2eb749)here: https://towardsdatascience.com/top-5-best-cryptocurrency-apis-for-developers-32475d2eb749
+Questions, comments, and constructive criticism is welcomed. Read the full story [here](https://towardsdatascience.com/top-5-best-cryptocurrency-apis-for-developers-32475d2eb749) : https://towardsdatascience.com/top-5-best-cryptocurrency-apis-for-developers-32475d2eb749
