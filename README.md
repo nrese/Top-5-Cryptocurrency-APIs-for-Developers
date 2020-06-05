@@ -12,7 +12,7 @@ Regardless if you are a cryptocurrency trader, speculator, developer, or someone
 
 Let's discover the best crypto APIs in the market.
 
-# LunarCRUSH - Social Listening For Crypto
+# [LunarCRUSH - Social Listening For Crypto](https://lunarcrush.com)
 
 LunarCRUSH provides API endpoints for thousands of crypto assets. This is the same API that drives their web app. Access over 100 million collected social posts, all classified by coin using artificial intelligence and displayed alongside unique insights. The cryptocurrency focused company collects more than 100,000 social posts with 20,000 links per day and they support more than 2000 cryptocurrencies. LunarCRUSH is known as one the most reliable API for community and social insights.
 LunarCRUSH collects data on influencers, social influencer activity and their engagement, frequency, and impact across over thousands of cryptocurrencies. This allows for some pretty awesome things such as how bullish something is vs. bearish. It also lets you know who is really influential vs. a bot. You can also integrate social metrics for over 2,000 coins into your TradingView charts. LunarCRUSH has real-time cryptocurrency alerts, LunarAlerts, for notifications on Cryptocurrency prices and social metrics which helps for automating trade decisions.
@@ -45,7 +45,7 @@ My initial project was to use their API to gather as much social data as possibl
 
 ---
 
-# Messari
+#  [Messari](https://messari.io)
 Messari provides free API endpoints for thousands of crypto assets. These endpoints include trades, market data (VWAP), quantitative metrics, qualitative information. This is the same API that drives their web app. Most of their endpoints are available without an API key, but they limit their rates. The free tier does not include redistribution rights and requires attribution and a link back to their site.
 
 ## Messari API Usage
@@ -57,7 +57,7 @@ Generally, Messari is a good API for those looking to build custom solutions. Wh
 
 ---
 
-# Nomics
+# [Nomics](https://nomics.com/)
 Nomics is a cryptocurrency data API focused on Price, crypto market cap, supply, and all-time high data. They offer Candle/OHLC data for currencies & exchanges. Additionally, they supply historical aggregate cryptocurrency market cap since January of 2013.
 
 Nomics API is a great resource for all developers. Their prices can seem expensive to the typical developer who is searching for a cheap or free crypto API. Nonetheless, they are a well respected API within the crypto industry.
@@ -71,7 +71,7 @@ An overall positive experience with Nomics lead me to discovering what it has to
 
 ---
 
-# CoinMarketCap
+#  [CoinMarketCap](https://coinmarketcap.com)
 
 CoinMarketCap is commonly known for being the go-to place for checking cryptocurrency and token prices. CoinMarketCap was recently acquired by Binance, an international cryptocurrency exchange founded by Changpeng Zhao in China in 2017.
 CoinMarketCap provides API tiers for individual users and business users. The free plan has limitations to how many API calls you can make per month. The functionality is fine for testing but for those attempting to build applications for consumer use then I suggest using an API with more options.
@@ -85,7 +85,7 @@ When initially discovering the power of crypto data, CMC was the first API I was
 
 ---
 
-# CoinGecko
+# [CoinMarketCap](https://coingecko.com)
 CoinGecko provides data for live pricing, trading volume, tickers, exchanges, historical data, coin info & images, developer & community stats, events, global markets, and CoinGecko Beam coins & exchanges status updates directly.
 With only 21 endpoints, this may not be the best option for traders and enterprises. I would not recommend using for these purposes. Although CoinGecko is free, it most likely will not meet the needs of traders and exchanges.
 
